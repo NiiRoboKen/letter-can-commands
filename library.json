@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
+  "name": "letter-can-commands",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NiiRoboKen/letter-can-commands.git"
+  },
+  "frameworks": "*",
+  "platforms": "*",
+  "headers": ["letter_can_commands.hpp"]
+}
